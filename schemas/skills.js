@@ -9,6 +9,16 @@ export default{
             type:'string'
         },
         {
+            name: 'level',
+            title: 'Level',
+            type: 'string'
+        },
+        {
+            name: 'description',
+            title: 'Description',
+            type: 'string'
+        },
+        {
             name:'bgColor',
             title:'BgColor',
             type:'string'
